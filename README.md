@@ -1,6 +1,7 @@
 # DevOps Stage 0 - HNG13
 
-**Name:** Godfirst  
-**Slack Username:** [your-slack-username]  
+**Name:** Godfirst Azubuike  
+**Slack Username:** [Victor]  
 **Project Description:** First DevOps challenge - deploying NGINX server and serving a custom webpage.  
-**Server IP/Domain:** (to be added after deployment)
+**Server IP/Domain:** (http://13.51.121.184/)
+
